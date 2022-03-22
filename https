@@ -1,0 +1,2 @@
+#git remote add origin https://team1PM@dev.azure.com/team1PM/cdc/_git/cdc
+#git push -u origin --all
